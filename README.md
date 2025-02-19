@@ -1,7 +1,10 @@
 # Motioncut_Assignment3
 ## Assignment objective
 Create a functional and visually appealing e-commerce product page using HTML and CSS.
+## Project Description
+You are tasked with developing an e-commerce product page. The page should display product details such as the product image, name, description, price, and an add-to-cart button. The design should be user-friendly and visually attractive, ensuring a seamless shopping experience for users.
 
+## HTML Code
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -189,3 +192,11 @@ Create a functional and visually appealing e-commerce product page using HTML an
 </body>
 </html>
 ```
+
+## Output Images
+
+![Screenshot 2025-02-19 182642](https://github.com/user-attachments/assets/860432a5-62d4-474d-ae6b-a00f7c17e303)
+
+![Screenshot 2025-02-19 182626](https://github.com/user-attachments/assets/90aaeec0-ed4d-4fcb-9da3-224a58c154a7)
+
+![Screenshot 2025-02-19 182659](https://github.com/user-attachments/assets/45c1e924-53ad-40b1-9f29-eb74c28813b7)
